@@ -53,6 +53,9 @@ Um sistema compilador completo desenvolvido de forma modular e incremental para 
 
 ---
 
+### Projeto ChatDesenhoMultithread - Como um conteudo Extra
+* Part 1 and part 2 Feitos em sala de aula. 
+
 ## 🛠️ Tecnologias Utilizadas
 
 * ☕ **Linguagem:** Java 8+
