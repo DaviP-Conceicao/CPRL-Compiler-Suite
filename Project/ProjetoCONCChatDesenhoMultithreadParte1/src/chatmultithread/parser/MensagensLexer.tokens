@@ -1,0 +1,13 @@
+NEG_ESQ=1
+NEG_DIR=2
+ITA_ESQ=3
+ITA_DIR=4
+COR_ESQ=5
+COR_DIR=6
+STRING=7
+CHAR=8
+'[b]'=1
+'[/b]'=2
+'[i]'=3
+'[/i]'=4
+'[/c]'=6
